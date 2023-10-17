@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\bin\Debug\Taksit.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\bin\Debug\Taksit.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\bin\Debug\Taksit.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Taksit\Taksit\obj\Debug\Taksit.pdb
